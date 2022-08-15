@@ -1,0 +1,3 @@
+# Microsoft-Clone-
+I've designed this website in different way...
+![screenshot](https://user-images.githubusercontent.com/96513716/184697901-2a5c7710-686d-463d-81b7-a419f7e93cb0.png)
